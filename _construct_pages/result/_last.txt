@@ -1,0 +1,2 @@
+file: dati_generali
+class: DatiGenerali

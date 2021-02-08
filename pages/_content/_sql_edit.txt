@@ -1,0 +1,8 @@
+
+            UPDATE
+                companies
+            SET
+                legal_site = '{\\\"address\\\":\\\"VIA ASSISI, 35\\\",\\\"city\\\":\\\"GRAVINA IN PUGLIA\\\",\\\"province\\\":\\\"BA\\\",\\\"CAP\\\":\\\"\\\"}', operative_site = '{\\\"address\\\":\\\"C.DA ALVITINO SNC\\\",\\\"city\\\":\\\"GRAVINA IN PUGLIA\\\",\\\"province\\\":\\\"BA\\\",\\\"CAP\\\":\\\"\\\"}'
+            WHERE
+                company = '5c952650a4a83'
+            

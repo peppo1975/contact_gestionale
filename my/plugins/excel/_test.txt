@@ -1,0 +1,1363 @@
+PHPExcel Object
+(
+    [_uniqueID:PHPExcel:private] => 5ea708b636f81
+    [_properties:PHPExcel:private] => PHPExcel_DocumentProperties Object
+        (
+            [_creator:PHPExcel_DocumentProperties:private] => 
+            [_lastModifiedBy:PHPExcel_DocumentProperties:private] => peppe
+            [_created:PHPExcel_DocumentProperties:private] => 1586206353
+            [_modified:PHPExcel_DocumentProperties:private] => 1588005021
+            [_title:PHPExcel_DocumentProperties:private] => 
+            [_description:PHPExcel_DocumentProperties:private] => 
+            [_subject:PHPExcel_DocumentProperties:private] => 
+            [_keywords:PHPExcel_DocumentProperties:private] => 
+            [_category:PHPExcel_DocumentProperties:private] => 
+            [_manager:PHPExcel_DocumentProperties:private] => 
+            [_company:PHPExcel_DocumentProperties:private] => Microsoft Corporation
+            [_customProperties:PHPExcel_DocumentProperties:private] => Array
+                (
+                )
+
+        )
+
+    [_security:PHPExcel:private] => PHPExcel_DocumentSecurity Object
+        (
+            [_lockRevision:PHPExcel_DocumentSecurity:private] => 
+            [_lockStructure:PHPExcel_DocumentSecurity:private] => 
+            [_lockWindows:PHPExcel_DocumentSecurity:private] => 
+            [_revisionsPassword:PHPExcel_DocumentSecurity:private] => 
+            [_workbookPassword:PHPExcel_DocumentSecurity:private] => 
+        )
+
+    [_workSheetCollection:PHPExcel:private] => Array
+        (
+            [0] => PHPExcel_Worksheet Object
+                (
+                    [_parent:PHPExcel_Worksheet:private] => PHPExcel Object
+ *RECURSION*
+                    [_cellCollection:PHPExcel_Worksheet:private] => PHPExcel_CachedObjectStorage_Memory Object
+                        (
+                            [_parent:protected] => PHPExcel_Worksheet Object
+ *RECURSION*
+                            [_currentObject:protected] => 
+                            [_currentObjectID:protected] => D5
+                            [_currentCellIsDirty:protected] => 1
+                            [_cellCache:protected] => Array
+                                (
+                                    [A1] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => cognome
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [B1] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => nome
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [C1] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => cf
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [D1] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => data_nascita
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [E1] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => email
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [A2] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => CALIA
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [B2] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => ANGELO
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [C2] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => CLANGL68E20A225A
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [D2] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => 1968-05-20
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 1
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [A3] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => GIACOMINO
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [B3] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => GRAZIA
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [C3] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => GCMGRZ65R43A225H
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [D3] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => 1965-10-03
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 1
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [A4] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => RAGNI
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [B4] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => FRANCESCO
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [C4] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => RGNFNC64P18A225Y
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [D4] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => 1964-09-18
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 1
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [A5] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => RAGNI
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [B5] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => PIETRANTONIO
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [C5] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => RGNPRN98C27A225S
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 0
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                    [D5] => PHPExcel_Cell Object
+                                        (
+                                            [_value:PHPExcel_Cell:private] => 1998-03-27
+                                            [_calculatedValue:PHPExcel_Cell:private] => 
+                                            [_dataType:PHPExcel_Cell:private] => s
+                                            [_parent:PHPExcel_Cell:private] => PHPExcel_CachedObjectStorage_Memory Object
+ *RECURSION*
+                                            [_xfIndex:PHPExcel_Cell:private] => 1
+                                            [_formulaAttributes:PHPExcel_Cell:private] => 
+                                        )
+
+                                )
+
+                        )
+
+                    [_rowDimensions:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_defaultRowDimension:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_RowDimension Object
+                        (
+                            [_rowIndex:PHPExcel_Worksheet_RowDimension:private] => 
+                            [_rowHeight:PHPExcel_Worksheet_RowDimension:private] => -1
+                            [_zeroHeight:PHPExcel_Worksheet_RowDimension:private] => 
+                            [_visible:PHPExcel_Worksheet_RowDimension:private] => 1
+                            [_outlineLevel:PHPExcel_Worksheet_RowDimension:private] => 0
+                            [_collapsed:PHPExcel_Worksheet_RowDimension:private] => 
+                            [_xfIndex:PHPExcel_Worksheet_RowDimension:private] => 
+                        )
+
+                    [_columnDimensions:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_defaultColumnDimension:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_ColumnDimension Object
+                        (
+                            [_columnIndex:PHPExcel_Worksheet_ColumnDimension:private] => 
+                            [_width:PHPExcel_Worksheet_ColumnDimension:private] => -1
+                            [_autoSize:PHPExcel_Worksheet_ColumnDimension:private] => 
+                            [_visible:PHPExcel_Worksheet_ColumnDimension:private] => 1
+                            [_outlineLevel:PHPExcel_Worksheet_ColumnDimension:private] => 0
+                            [_collapsed:PHPExcel_Worksheet_ColumnDimension:private] => 
+                            [_xfIndex:PHPExcel_Worksheet_ColumnDimension:private] => 0
+                        )
+
+                    [_drawingCollection:PHPExcel_Worksheet:private] => ArrayObject Object
+                        (
+                            [storage:ArrayObject:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [_chartCollection:PHPExcel_Worksheet:private] => ArrayObject Object
+                        (
+                            [storage:ArrayObject:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [_title:PHPExcel_Worksheet:private] => Sheet01
+                    [_sheetState:PHPExcel_Worksheet:private] => visible
+                    [_pageSetup:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_PageSetup Object
+                        (
+                            [_paperSize:PHPExcel_Worksheet_PageSetup:private] => 9
+                            [_orientation:PHPExcel_Worksheet_PageSetup:private] => portrait
+                            [_scale:PHPExcel_Worksheet_PageSetup:private] => 100
+                            [_fitToPage:PHPExcel_Worksheet_PageSetup:private] => 
+                            [_fitToHeight:PHPExcel_Worksheet_PageSetup:private] => 1
+                            [_fitToWidth:PHPExcel_Worksheet_PageSetup:private] => 1
+                            [_columnsToRepeatAtLeft:PHPExcel_Worksheet_PageSetup:private] => Array
+                                (
+                                    [0] => 
+                                    [1] => 
+                                )
+
+                            [_rowsToRepeatAtTop:PHPExcel_Worksheet_PageSetup:private] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 0
+                                )
+
+                            [_horizontalCentered:PHPExcel_Worksheet_PageSetup:private] => 
+                            [_verticalCentered:PHPExcel_Worksheet_PageSetup:private] => 
+                            [_printArea:PHPExcel_Worksheet_PageSetup:private] => 
+                            [_firstPageNumber:PHPExcel_Worksheet_PageSetup:private] => 
+                        )
+
+                    [_pageMargins:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_PageMargins Object
+                        (
+                            [_left:PHPExcel_Worksheet_PageMargins:private] => 0.75
+                            [_right:PHPExcel_Worksheet_PageMargins:private] => 0.75
+                            [_top:PHPExcel_Worksheet_PageMargins:private] => 0.75
+                            [_bottom:PHPExcel_Worksheet_PageMargins:private] => 0.5
+                            [_header:PHPExcel_Worksheet_PageMargins:private] => 0.5
+                            [_footer:PHPExcel_Worksheet_PageMargins:private] => 0.75
+                        )
+
+                    [_headerFooter:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_HeaderFooter Object
+                        (
+                            [_oddHeader:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_oddFooter:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_evenHeader:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_evenFooter:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_firstHeader:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_firstFooter:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_differentOddEven:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_differentFirst:PHPExcel_Worksheet_HeaderFooter:private] => 
+                            [_scaleWithDocument:PHPExcel_Worksheet_HeaderFooter:private] => 1
+                            [_alignWithMargins:PHPExcel_Worksheet_HeaderFooter:private] => 1
+                            [_headerFooterImages:PHPExcel_Worksheet_HeaderFooter:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [_sheetView:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_SheetView Object
+                        (
+                            [_zoomScale:PHPExcel_Worksheet_SheetView:private] => 100
+                            [_zoomScaleNormal:PHPExcel_Worksheet_SheetView:private] => 100
+                            [_sheetviewType:PHPExcel_Worksheet_SheetView:private] => normal
+                        )
+
+                    [_protection:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_Protection Object
+                        (
+                            [_sheet:PHPExcel_Worksheet_Protection:private] => 
+                            [_objects:PHPExcel_Worksheet_Protection:private] => 
+                            [_scenarios:PHPExcel_Worksheet_Protection:private] => 
+                            [_formatCells:PHPExcel_Worksheet_Protection:private] => 
+                            [_formatColumns:PHPExcel_Worksheet_Protection:private] => 
+                            [_formatRows:PHPExcel_Worksheet_Protection:private] => 
+                            [_insertColumns:PHPExcel_Worksheet_Protection:private] => 
+                            [_insertRows:PHPExcel_Worksheet_Protection:private] => 
+                            [_insertHyperlinks:PHPExcel_Worksheet_Protection:private] => 
+                            [_deleteColumns:PHPExcel_Worksheet_Protection:private] => 
+                            [_deleteRows:PHPExcel_Worksheet_Protection:private] => 
+                            [_selectLockedCells:PHPExcel_Worksheet_Protection:private] => 
+                            [_sort:PHPExcel_Worksheet_Protection:private] => 
+                            [_autoFilter:PHPExcel_Worksheet_Protection:private] => 
+                            [_pivotTables:PHPExcel_Worksheet_Protection:private] => 
+                            [_selectUnlockedCells:PHPExcel_Worksheet_Protection:private] => 
+                            [_password:PHPExcel_Worksheet_Protection:private] => 
+                        )
+
+                    [_styles:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_conditionalStylesCollection:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_cellCollectionIsSorted:PHPExcel_Worksheet:private] => 
+                    [_breaks:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_mergeCells:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_protectedCells:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_autoFilter:PHPExcel_Worksheet:private] => PHPExcel_Worksheet_AutoFilter Object
+                        (
+                            [_workSheet:PHPExcel_Worksheet_AutoFilter:private] => PHPExcel_Worksheet Object
+ *RECURSION*
+                            [_range:PHPExcel_Worksheet_AutoFilter:private] => 
+                            [_columns:PHPExcel_Worksheet_AutoFilter:private] => Array
+                                (
+                                )
+
+                        )
+
+                    [_freezePane:PHPExcel_Worksheet:private] => 
+                    [_showGridlines:PHPExcel_Worksheet:private] => 1
+                    [_printGridlines:PHPExcel_Worksheet:private] => 
+                    [_showRowColHeaders:PHPExcel_Worksheet:private] => 1
+                    [_showSummaryBelow:PHPExcel_Worksheet:private] => 1
+                    [_showSummaryRight:PHPExcel_Worksheet:private] => 1
+                    [_comments:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_activeCell:PHPExcel_Worksheet:private] => D2
+                    [_selectedCells:PHPExcel_Worksheet:private] => D2:D5
+                    [_cachedHighestColumn:PHPExcel_Worksheet:private] => E
+                    [_cachedHighestRow:PHPExcel_Worksheet:private] => 5
+                    [_rightToLeft:PHPExcel_Worksheet:private] => 
+                    [_hyperlinkCollection:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_dataValidationCollection:PHPExcel_Worksheet:private] => Array
+                        (
+                        )
+
+                    [_tabColor:PHPExcel_Worksheet:private] => 
+                    [_dirty:PHPExcel_Worksheet:private] => 1
+                    [_hash:PHPExcel_Worksheet:private] => 
+                    [_codeName:PHPExcel_Worksheet:private] => Worksheet
+                )
+
+        )
+
+    [_calculationEngine:PHPExcel:private] => PHPExcel_Calculation Object
+        (
+            [_workbook:PHPExcel_Calculation:private] => PHPExcel Object
+ *RECURSION*
+            [_calculationCache:PHPExcel_Calculation:private] => Array
+                (
+                )
+
+            [_calculationCacheEnabled:PHPExcel_Calculation:private] => 1
+            [debugLog:PHPExcel_Calculation:private] => 
+            [suppressFormulaErrors] => 
+            [formulaError] => 
+            [_cyclicReferenceStack:PHPExcel_Calculation:private] => PHPExcel_CalcEngine_CyclicReferenceStack Object
+                (
+                    [_stack:PHPExcel_CalcEngine_CyclicReferenceStack:private] => Array
+                        (
+                        )
+
+                )
+
+            [_cellStack:PHPExcel_Calculation:private] => Array
+                (
+                )
+
+            [_cyclicFormulaCount:PHPExcel_Calculation:private] => 1
+            [_cyclicFormulaCell:PHPExcel_Calculation:private] => 
+            [cyclicFormulaCount] => 1
+            [_savedPrecision:PHPExcel_Calculation:private] => 14
+            [delta] => 1.0E-16
+            [_debugLog] => PHPExcel_CalcEngine_Logger Object
+                (
+                    [_writeDebugLog:PHPExcel_CalcEngine_Logger:private] => 
+                    [_echoDebugLog:PHPExcel_CalcEngine_Logger:private] => 
+                    [_debugLog:PHPExcel_CalcEngine_Logger:private] => Array
+                        (
+                        )
+
+                    [_cellStack:PHPExcel_CalcEngine_Logger:private] => PHPExcel_CalcEngine_CyclicReferenceStack Object
+                        (
+                            [_stack:PHPExcel_CalcEngine_CyclicReferenceStack:private] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [_activeSheetIndex:PHPExcel:private] => 0
+    [_namedRanges:PHPExcel:private] => Array
+        (
+        )
+
+    [_cellXfSupervisor:PHPExcel:private] => PHPExcel_Style Object
+        (
+            [_font:protected] => PHPExcel_Style_Font Object
+                (
+                    [_name:protected] => Calibri
+                    [_size:protected] => 11
+                    [_bold:protected] => 
+                    [_italic:protected] => 
+                    [_superScript:protected] => 
+                    [_subScript:protected] => 
+                    [_underline:protected] => none
+                    [_strikethrough:protected] => 
+                    [_color:protected] => PHPExcel_Style_Color Object
+                        (
+                            [_argb:protected] => FF000000
+                            [_parentPropertyName:protected] => _color
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Font Object
+ *RECURSION*
+                        )
+
+                    [_isSupervisor:protected] => 1
+                    [_parent:protected] => PHPExcel_Style Object
+ *RECURSION*
+                )
+
+            [_fill:protected] => PHPExcel_Style_Fill Object
+                (
+                    [_fillType:protected] => none
+                    [_rotation:protected] => 0
+                    [_startColor:protected] => PHPExcel_Style_Color Object
+                        (
+                            [_argb:protected] => FFFFFFFF
+                            [_parentPropertyName:protected] => _startColor
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Fill Object
+ *RECURSION*
+                        )
+
+                    [_endColor:protected] => PHPExcel_Style_Color Object
+                        (
+                            [_argb:protected] => FF000000
+                            [_parentPropertyName:protected] => _endColor
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Fill Object
+ *RECURSION*
+                        )
+
+                    [_isSupervisor:protected] => 1
+                    [_parent:protected] => PHPExcel_Style Object
+ *RECURSION*
+                )
+
+            [_borders:protected] => PHPExcel_Style_Borders Object
+                (
+                    [_left:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _left
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_right:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _right
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_top:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _top
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_bottom:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _bottom
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_diagonal:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _diagonal
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_diagonalDirection:protected] => 0
+                    [_allBorders:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _allBorders
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_outline:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _outline
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_inside:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _inside
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_vertical:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _vertical
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_horizontal:protected] => PHPExcel_Style_Border Object
+                        (
+                            [_borderStyle:protected] => none
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => _color
+                                    [_isSupervisor:protected] => 1
+                                    [_parent:protected] => PHPExcel_Style_Border Object
+ *RECURSION*
+                                )
+
+                            [_parentPropertyName:protected] => _horizontal
+                            [_isSupervisor:protected] => 1
+                            [_parent:protected] => PHPExcel_Style_Borders Object
+ *RECURSION*
+                        )
+
+                    [_isSupervisor:protected] => 1
+                    [_parent:protected] => PHPExcel_Style Object
+ *RECURSION*
+                )
+
+            [_alignment:protected] => PHPExcel_Style_Alignment Object
+                (
+                    [_horizontal:protected] => general
+                    [_vertical:protected] => bottom
+                    [_textRotation:protected] => 0
+                    [_wrapText:protected] => 
+                    [_shrinkToFit:protected] => 
+                    [_indent:protected] => 0
+                    [_readorder:protected] => 0
+                    [_isSupervisor:protected] => 1
+                    [_parent:protected] => PHPExcel_Style Object
+ *RECURSION*
+                )
+
+            [_numberFormat:protected] => PHPExcel_Style_NumberFormat Object
+                (
+                    [_formatCode:protected] => General
+                    [_builtInFormatCode:protected] => 0
+                    [_isSupervisor:protected] => 1
+                    [_parent:protected] => PHPExcel_Style Object
+ *RECURSION*
+                )
+
+            [_conditionalStyles:protected] => Array
+                (
+                )
+
+            [_protection:protected] => PHPExcel_Style_Protection Object
+                (
+                    [_locked:protected] => inherit
+                    [_hidden:protected] => inherit
+                    [_isSupervisor:protected] => 1
+                    [_parent:protected] => PHPExcel_Style Object
+ *RECURSION*
+                )
+
+            [_index:protected] => 
+            [_quotePrefix:protected] => 
+            [_isSupervisor:protected] => 1
+            [_parent:protected] => PHPExcel Object
+ *RECURSION*
+        )
+
+    [_cellXfCollection:PHPExcel:private] => Array
+        (
+            [0] => PHPExcel_Style Object
+                (
+                    [_font:protected] => PHPExcel_Style_Font Object
+                        (
+                            [_name:protected] => Calibri
+                            [_size:protected] => 11
+                            [_bold:protected] => 
+                            [_italic:protected] => 
+                            [_superScript:protected] => 
+                            [_subScript:protected] => 
+                            [_underline:protected] => none
+                            [_strikethrough:protected] => 
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_fill:protected] => PHPExcel_Style_Fill Object
+                        (
+                            [_fillType:protected] => none
+                            [_rotation:protected] => 0
+                            [_startColor:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_endColor:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_borders:protected] => PHPExcel_Style_Borders Object
+                        (
+                            [_left:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_right:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_top:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_bottom:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_diagonal:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_diagonalDirection:protected] => 0
+                            [_allBorders:protected] => 
+                            [_outline:protected] => 
+                            [_inside:protected] => 
+                            [_vertical:protected] => 
+                            [_horizontal:protected] => 
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_alignment:protected] => PHPExcel_Style_Alignment Object
+                        (
+                            [_horizontal:protected] => general
+                            [_vertical:protected] => bottom
+                            [_textRotation:protected] => 0
+                            [_wrapText:protected] => 
+                            [_shrinkToFit:protected] => 
+                            [_indent:protected] => 0
+                            [_readorder:protected] => 0
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_numberFormat:protected] => PHPExcel_Style_NumberFormat Object
+                        (
+                            [_formatCode:protected] => General
+                            [_builtInFormatCode:protected] => 0
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_conditionalStyles:protected] => Array
+                        (
+                        )
+
+                    [_protection:protected] => PHPExcel_Style_Protection Object
+                        (
+                            [_locked:protected] => inherit
+                            [_hidden:protected] => inherit
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_index:protected] => 0
+                    [_quotePrefix:protected] => 
+                    [_isSupervisor:protected] => 
+                    [_parent:protected] => 
+                )
+
+            [1] => PHPExcel_Style Object
+                (
+                    [_font:protected] => PHPExcel_Style_Font Object
+                        (
+                            [_name:protected] => Calibri
+                            [_size:protected] => 11
+                            [_bold:protected] => 
+                            [_italic:protected] => 
+                            [_superScript:protected] => 
+                            [_subScript:protected] => 
+                            [_underline:protected] => none
+                            [_strikethrough:protected] => 
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_fill:protected] => PHPExcel_Style_Fill Object
+                        (
+                            [_fillType:protected] => none
+                            [_rotation:protected] => 0
+                            [_startColor:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_endColor:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_borders:protected] => PHPExcel_Style_Borders Object
+                        (
+                            [_left:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_right:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_top:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_bottom:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_diagonal:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_diagonalDirection:protected] => 0
+                            [_allBorders:protected] => 
+                            [_outline:protected] => 
+                            [_inside:protected] => 
+                            [_vertical:protected] => 
+                            [_horizontal:protected] => 
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_alignment:protected] => PHPExcel_Style_Alignment Object
+                        (
+                            [_horizontal:protected] => general
+                            [_vertical:protected] => bottom
+                            [_textRotation:protected] => 0
+                            [_wrapText:protected] => 
+                            [_shrinkToFit:protected] => 
+                            [_indent:protected] => 0
+                            [_readorder:protected] => 0
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_numberFormat:protected] => PHPExcel_Style_NumberFormat Object
+                        (
+                            [_formatCode:protected] => mm-dd-yy
+                            [_builtInFormatCode:protected] => 14
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_conditionalStyles:protected] => Array
+                        (
+                        )
+
+                    [_protection:protected] => PHPExcel_Style_Protection Object
+                        (
+                            [_locked:protected] => inherit
+                            [_hidden:protected] => inherit
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_index:protected] => 1
+                    [_quotePrefix:protected] => 
+                    [_isSupervisor:protected] => 
+                    [_parent:protected] => 
+                )
+
+        )
+
+    [_cellStyleXfCollection:PHPExcel:private] => Array
+        (
+            [0] => PHPExcel_Style Object
+                (
+                    [_font:protected] => PHPExcel_Style_Font Object
+                        (
+                            [_name:protected] => Calibri
+                            [_size:protected] => 11
+                            [_bold:protected] => 
+                            [_italic:protected] => 
+                            [_superScript:protected] => 
+                            [_subScript:protected] => 
+                            [_underline:protected] => none
+                            [_strikethrough:protected] => 
+                            [_color:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_fill:protected] => PHPExcel_Style_Fill Object
+                        (
+                            [_fillType:protected] => none
+                            [_rotation:protected] => 0
+                            [_startColor:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_endColor:protected] => PHPExcel_Style_Color Object
+                                (
+                                    [_argb:protected] => FF000000
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_borders:protected] => PHPExcel_Style_Borders Object
+                        (
+                            [_left:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_right:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_top:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_bottom:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_diagonal:protected] => PHPExcel_Style_Border Object
+                                (
+                                    [_borderStyle:protected] => none
+                                    [_color:protected] => PHPExcel_Style_Color Object
+                                        (
+                                            [_argb:protected] => FF000000
+                                            [_parentPropertyName:protected] => 
+                                            [_isSupervisor:protected] => 
+                                            [_parent:protected] => 
+                                        )
+
+                                    [_parentPropertyName:protected] => 
+                                    [_isSupervisor:protected] => 
+                                    [_parent:protected] => 
+                                )
+
+                            [_diagonalDirection:protected] => 0
+                            [_allBorders:protected] => 
+                            [_outline:protected] => 
+                            [_inside:protected] => 
+                            [_vertical:protected] => 
+                            [_horizontal:protected] => 
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_alignment:protected] => PHPExcel_Style_Alignment Object
+                        (
+                            [_horizontal:protected] => general
+                            [_vertical:protected] => bottom
+                            [_textRotation:protected] => 0
+                            [_wrapText:protected] => 
+                            [_shrinkToFit:protected] => 
+                            [_indent:protected] => 0
+                            [_readorder:protected] => 0
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_numberFormat:protected] => PHPExcel_Style_NumberFormat Object
+                        (
+                            [_formatCode:protected] => General
+                            [_builtInFormatCode:protected] => 0
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_conditionalStyles:protected] => Array
+                        (
+                        )
+
+                    [_protection:protected] => PHPExcel_Style_Protection Object
+                        (
+                            [_locked:protected] => inherit
+                            [_hidden:protected] => inherit
+                            [_isSupervisor:protected] => 
+                            [_parent:protected] => 
+                        )
+
+                    [_index:protected] => 0
+                    [_quotePrefix:protected] => 
+                    [_isSupervisor:protected] => 
+                    [_parent:protected] => 
+                )
+
+        )
+
+    [_hasMacros:PHPExcel:private] => 
+    [_macrosCode:PHPExcel:private] => 
+    [_macrosCertificate:PHPExcel:private] => 
+    [_ribbonXMLData:PHPExcel:private] => 
+    [_ribbonBinObjects:PHPExcel:private] => 
+)

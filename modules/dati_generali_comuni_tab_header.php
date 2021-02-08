@@ -1,0 +1,9 @@
+<thead>
+    <tr>
+        <th>Comune</th>
+        <th>Prov.</th>
+        <th>Regione</th>
+        <th>Altit.</th>
+        <th>Zona</th>
+    </tr>
+</thead>
