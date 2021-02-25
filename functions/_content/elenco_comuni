@@ -9,6 +9,6 @@ SELECT
                 INNER JOIN regioni ON provincie.id_regione = regioni.id
                 INNER JOIN altitudini_comuni ON altitudini_comuni.comune = comuni.id
                 WHERE
-                    comuni.nome LIKE LOWER('%gravin%')
+                    comuni.nome LIKE LOWER('%alt%')
                 ORDER BY comuni.nome ASC        
                     

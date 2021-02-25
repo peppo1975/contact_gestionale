@@ -32,60 +32,64 @@
                 </li>
 
 
+                <div hidden="">
+                    <li class="nav-item">
+                        <a href="../pages/home.php" class="nav-link home_sidebar">
+                            <i class="nav-icon fa fa-home"></i>
+                            <p>
+                                Home
+                            </p>
+                        </a>
+                    </li>
 
-                <li class="nav-item">
-                    <a href="../pages/home.php" class="nav-link home_sidebar">
-                        <i class="nav-icon fa fa-home"></i>
-                        <p>
-                            Home
-                        </p>
-                    </a>
-                </li>
+                    <li class="nav-item">
+                        <a href="../pages/aziende.php" class="nav-link aziende_sidebar">
+                            <i class="nav-icon fa fa-industry"></i>
+                            <p>
+                                Aziende
+                            </p>
+                        </a>
+                    </li>
 
-                <li class="nav-item">
-                    <a href="../pages/aziende.php" class="nav-link aziende_sidebar">
-                        <i class="nav-icon fa fa-industry"></i>
-                        <p>
-                            Aziende
-                        </p>
-                    </a>
-                </li>
+                    <li class="nav-item">
+                        <a href="../pages/inserisci_aziende.php" class="nav-link inserisci_aziende_sidebar"   style="background-color: green; display: none">
+                            <i class="nav-icon far fa-image"></i>
+                            <p>
+                                InserisciAziende
+                            </p>
+                        </a>
+                    </li>
 
-                <li class="nav-item">
-                    <a href="../pages/inserisci_aziende.php" class="nav-link inserisci_aziende_sidebar"   style="background-color: green; display: none">
-                        <i class="nav-icon far fa-image"></i>
-                        <p>
-                            InserisciAziende
-                        </p>
-                    </a>
-                </li>
+                    <li class="nav-item">
+                        <a href="../pages/persone.php" class="nav-link persone_sidebar" >
+                            <i class="nav-icon far fa-user"></i>
+                            <p>
+                                Persone
+                            </p>
+                        </a>
+                    </li>
 
-                <li class="nav-item">
-                    <a href="../pages/persone.php" class="nav-link persone_sidebar" >
-                        <i class="nav-icon far fa-user"></i>
-                        <p>
-                            Persone
-                        </p>
-                    </a>
-                </li>
+                    <li class="nav-item">
+                        <a href="../pages/inserisci_persone.php" class="nav-link inserisci_persone_sidebar"  style="background-color: green; display: none">
+                            <i class="nav-icon far fa-user"></i>
+                            <p>
+                                InserisciPersone
+                            </p>
+                        </a>
+                    </li>
 
-                <li class="nav-item">
-                    <a href="../pages/inserisci_persone.php" class="nav-link inserisci_persone_sidebar"  style="background-color: green; display: none">
-                        <i class="nav-icon far fa-user"></i>
-                        <p>
-                            InserisciPersone
-                        </p>
-                    </a>
-                </li>
+                    <li class="nav-item">
+                        <a href="../pages/_funzioni_varie.php" class="nav-link _funzioni_varie_sidebar">
+                            <i class="nav-icon far fa-image"></i>
+                            <p>
+                                FunzioniVarie
+                            </p>
+                        </a>
+                    </li>
+                </div>
 
-                <li class="nav-item">
-                    <a href="../pages/_funzioni_varie.php" class="nav-link _funzioni_varie_sidebar">
-                        <i class="nav-icon far fa-image"></i>
-                        <p>
-                            FunzioniVarie
-                        </p>
-                    </a>
-                </li>
+
+
 
 
 

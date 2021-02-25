@@ -1,0 +1,8 @@
+Array
+(
+    [rows] => 3
+    [columns] => 3
+    [larghezza_modulo] => 3
+    [altezza_modulo] => 3
+    [distanza_file] => 3
+)

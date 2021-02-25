@@ -57,7 +57,7 @@
                 </div>
 
                 <!-- DIRECT CHAT -->
-                <div class="card direct-chat direct-chat-primary">
+                <div class="card direct-chat direct-chat-primary" hidden="">
                     <div class="card-header">
                         <h3 class="card-title">Direct Chat</h3>
 
@@ -259,7 +259,7 @@
                 <!--/.direct-chat -->
 
                 <!-- TO DO List -->
-                <div class="card">
+                <div class="card" hidden="">
                     <div class="card-header">
                         <h3 class="card-title">
                             <i class="ion ion-clipboard mr-1"></i>

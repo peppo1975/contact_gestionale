@@ -2,20 +2,20 @@ Array
 (
     [0] => Array
         (
-            [id] => 3249
-            [cod_reg] => 19
-            [cod_prov] => 87
-            [cod_com] => 10
-            [nome] => Sicilia
-            [provincia] => 82
-            [sigla] => CT
-            [id_regione] => 15
-            [altitudine] => 355
-            [zona] => 4
-            [comune] => 3249
-            [id_comune] => 3249
-            [nome_comune] => Gravina di Catania
-            [nome_regione] => Sicilia
+            [id] => 182
+            [cod_reg] => 16
+            [cod_prov] => 72
+            [cod_com] => 4
+            [nome] => Puglia
+            [provincia] => 66
+            [sigla] => BA
+            [id_regione] => 13
+            [altitudine] => 467
+            [zona] => 3
+            [comune] => 182
+            [id_comune] => 182
+            [nome_comune] => Altamura
+            [nome_regione] => Puglia
         )
 
 )
